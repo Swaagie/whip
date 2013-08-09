@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+development/square.json
+.DS_Store
+dump.rdb
