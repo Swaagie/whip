@@ -4,12 +4,12 @@
   "description": "Work roster notifier, plugin lifehack schedules",
   "main": "index.js",
   "dependencies": {
-    "colors": "0.6.x",
-    "commander": "2.0.x",
-    "extendable": "0.0.x",
-    "growl": "1.7.x",
-    "node-schedule": "0.1.x",
-    "pre-commit": "0.0.x"
+    "colors": "~1.1.2",
+    "commander": "~2.9.0",
+    "extendable": "~0.1.0",
+    "growl": "~1.9.2",
+    "node-schedule": "~1.2.0",
+    "pre-commit": "~1.2.2"
   },
   "scripts": {
     "test": "exit"
